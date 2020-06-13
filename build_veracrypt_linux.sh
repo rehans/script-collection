@@ -19,3 +19,5 @@ sudo make
 
 # Afterwards you can find the veracrypt executable inside the /src/Main folder.
 
+# You can also: sudo cp Main/veracrypt /usr/local/bin/
+
