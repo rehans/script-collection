@@ -1,4 +1,4 @@
-::Open the "Microsoft Store" install "App Installer" (no account required)
+::Open the "Microsoft Store" and install "App Installer" (no account required)
 
 ::mandatory
 winget install Git.Git
